@@ -1,0 +1,8 @@
+Actual Result,TC001,TC002,TC003
+Test Case Name,Add to Cart,Login Functionality,Checkout Process
+Description,Add an item to the cart,Login with valid credentials,Complete a purchase with valid details
+Expected Result,Item added successfully,User logged in successfully,Order placed successfully
+T,Item added successfully,User logged in successfully,Order failed
+Status,Pass,Pass,Fail
+Tester Name,John Doe,Jane Doe,John Doe
+Date,2025-01-28,2025-01-28,2025-01-28
